@@ -1,6 +1,6 @@
 {
   "name": "optic-agent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "OPTIC in your terminal: the live market score, the four house books, the meme picks and a read-only look at any wallet's safe side and meme side on Robinhood Chain.",
   "type": "module",
   "bin": { "optic": "bin/optic.mjs" },

@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // optic: the OPTIC terminal for your shell. It only reads: no keys, no signing.
 // Rebalancing a wallet is signed in the web terminal, where the wallet itself confirms each step.
-const VERSION = "1.0.0";
+const VERSION = "1.0.1";
 const SERVER = (process.env.OPTIC_URL || "https://opticagents.com").replace(/\/$/, "");
 
 const tty = (process.stdout.isTTY || !!process.env.FORCE_COLOR) && !process.env.NO_COLOR;
