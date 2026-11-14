@@ -1,0 +1,14 @@
+{
+  "name": "optic-agent",
+  "version": "1.0.0",
+  "description": "OPTIC in your terminal: the live market score, the four house books, the meme picks and a read-only look at any wallet's safe side and meme side on Robinhood Chain.",
+  "type": "module",
+  "bin": { "optic": "bin/optic.mjs" },
+  "files": ["bin", "README.md", "LICENSE"],
+  "engines": { "node": ">=18" },
+  "homepage": "https://opticagents.com",
+  "repository": { "type": "git", "url": "git+https://github.com/opticagents/optic-agent.git" },
+  "bugs": { "url": "https://github.com/opticagents/optic-agent/issues" },
+  "keywords": ["optic", "robinhood-chain", "pons", "memecoin", "portfolio", "agent", "cli", "rebalance", "barbell", "uniswap", "usdg"],
+  "license": "MIT"
+}
