@@ -1,4 +1,9 @@
-<p align="center"><img src="https://raw.githubusercontent.com/opticagents/optic-agent/main/brand/logo.png" width="140" alt="OPTIC"></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/opticagents/optic-agent/main/brand/logo-light.png">
+    <img src="https://raw.githubusercontent.com/opticagents/optic-agent/main/brand/logo-dark.png" width="150" alt="OPTIC">
+  </picture>
+</p>
 
 <h1 align="center">optic-agent</h1>
 
