@@ -10,5 +10,6 @@
   "repository": { "type": "git", "url": "git+https://github.com/opticagents/optic-agent.git" },
   "bugs": { "url": "https://github.com/opticagents/optic-agent/issues" },
   "keywords": ["optic", "robinhood-chain", "pons", "memecoin", "portfolio", "agent", "cli", "rebalance", "barbell", "uniswap", "usdg"],
+  "author": "OPTIC (https://opticagents.com)",
   "license": "MIT"
 }
