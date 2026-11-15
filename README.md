@@ -12,6 +12,7 @@
 <p align="center">
   <a href="https://www.npmjs.com/package/optic-agent"><img src="https://img.shields.io/npm/v/optic-agent?color=111111&label=npm" alt="npm"></a>
   <a href="https://github.com/opticagents/optic-agent"><img src="https://img.shields.io/badge/github-optic--agent-111111?logo=github" alt="GitHub"></a>
+  <a href="https://x.com/opticrhai"><img src="https://img.shields.io/badge/X-@opticrhai-111111?logo=x" alt="X"></a>
   <a href="https://opticagents.com"><img src="https://img.shields.io/badge/web-opticagents.com-111111" alt="Website"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-555555" alt="MIT"></a>
 </p>
